@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "Canary-tester: Rapid regression detection for canary rollouts"
+authors:
+  - family-names: "Barmettler"
+    given-names: "Lars"
+    affiliation: "EPFL"
+date-released: "2024-08-13"
+version: "1.0.0"
