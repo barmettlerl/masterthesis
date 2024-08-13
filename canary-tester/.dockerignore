@@ -1,0 +1,10 @@
+.env
+.flake8
+**/__pycache__/
+.idea/
+.pytest_cache/
+.vscode/
+venv/
+.gitignore
+config.yaml
+pytest.init

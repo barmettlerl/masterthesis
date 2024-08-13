@@ -1,0 +1,7 @@
+tests: 
+  - name: "DiskFree"
+    query: "avg (disk_free) by(host)"
+    significance_level: 0.05
+    minimal_effect_size_of_interest: 0.1
+    type_arrival: PredictableArrival
+    direction: Bigger
